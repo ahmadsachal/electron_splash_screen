@@ -1,4 +1,4 @@
-# electron-quick-start
+# electron-quick-start-app-with-splash-screen
 
 **Clone and run for a quick way to see Electron in action.**
 
